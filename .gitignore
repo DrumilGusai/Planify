@@ -1,0 +1,20 @@
+# Maven / Java
+target/
+*.jar
+*.war
+*.class
+.mvn/
+!backend/.mvn/wrapper/maven-wrapper.jar
+
+# Node / Frontend
+node_modules/
+dist/
+.env
+.env.local
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db

@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/v1/:path*",
-      "destination": "https://brass-upload-permit-chubby.trycloudflare.com/api/v1/:path*"
+      "destination": "https://planify-api-7m44.onrender.com/api/v1/:path*"
     },
     {
       "source": "/(.*)",
